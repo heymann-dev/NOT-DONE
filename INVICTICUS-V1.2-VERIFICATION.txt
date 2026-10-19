@@ -1,0 +1,126 @@
+PASS  Required file: .gitignore
+PASS  Required file: .nojekyll
+PASS  Required file: README.md
+PASS  Required file: app-cover.png
+PASS  Required file: INVICTICUS-CHALLENGE-ARTWORK.png
+PASS  Required file: icon-192.png
+PASS  Required file: icon-512.png
+PASS  Required file: icon.svg
+PASS  Required file: index.html
+PASS  Required file: manifest.webmanifest
+PASS  Required file: package.json
+PASS  Required file: service-worker.js
+PASS  Required file: scripts/verify-repository.mjs
+PASS  Required file: INVICTICUS-V1.2-COMPREHENSIVE-REVIEW.txt
+PASS  Required file: INVICTICUS-V1.2-VERIFICATION.txt
+PASS  Required file: .github/workflows/verify.yml
+PASS  Ten primary sections remain
+PASS  Page exists: home
+PASS  Page exists: today
+PASS  Page exists: reset
+PASS  Page exists: health
+PASS  Page exists: photos
+PASS  Page exists: mountains
+PASS  Page exists: journey
+PASS  Page exists: goals
+PASS  Page exists: reviews
+PASS  Page exists: data
+PASS  V64 data schema remains active
+PASS  Public build marker is active
+PASS  Invicticus Oct 19 restart and Dec 31 boundary remain
+PASS  52-brick wall logic remains
+PASS  Six permanent daily standards remain
+PASS  Five body-status sliders remain
+PASS  Today command remains
+PASS  Northstar Web remains
+PASS  Iron Ledger remains
+PASS  Recovery command remains
+PASS  Three current photo slots remain
+PASS  Return to Mountains remains
+PASS  Journey UI remains
+PASS  Journey public seed is empty
+PASS  Goals remain
+PASS  Reviews remain
+PASS  Bulking reviews remain
+PASS  Reward checkpoints and bonuses remain
+PASS  Restart / 15-day proof feature remains
+PASS  Historical 26-day proof remains canonical
+PASS  No-Slither 90 completion remains canonical
+PASS  Mobile dock exists
+PASS  Mobile responsive rules exist
+PASS  Review layout has mobile one-column support
+PASS  Touch targets are 44px minimum
+PASS  Rugged color system remains
+PASS  Light text base remains
+PASS  No duplicate DOM IDs
+PASS  V60 restore compatibility remains
+PASS  V61 restore compatibility remains
+PASS  V62 restore compatibility remains
+PASS  V63 restore compatibility remains
+PASS  V59 restore compatibility remains
+PASS  Repository-relative manifest
+PASS  Manifest icons remain
+PASS  Invicticus public branding is active
+PASS  Armored angel app cover exists
+PASS  App cover is 1024 square
+PASS  192 icon dimensions correct
+PASS  512 icon dimensions correct
+PASS  HTML uses PNG app icon
+PASS  Social cover points to Invicticus artwork
+PASS  Service-worker cache is Invicticus V1.2 r1
+PASS  Service worker caches app cover
+PASS  Service worker caches Invicticus artwork
+PASS  Service-worker cache scoped to repo
+PASS  Controlled SW update remains
+PASS  Application JavaScript parses
+PASS  Service worker JavaScript parses
+PASS  No private backup file committed
+PASS  No personal JPEG/HEIC files committed
+PASS  No embedded personal image payload
+PASS  No embedded private state bootstrap
+PASS  No private finance snapshot committed
+PASS  No sensitive private record snippets committed
+PASS  Invicticus 14-drop home timeline exists
+PASS  Full-duty return card is present
+PASS  Invicticus reset epoch is active
+PASS  October pace gate is 10 bricks
+PASS  November pace gate is 32 bricks
+PASS  December summit gate is 52 bricks
+PASS  Supply Drop dates derive from Oct 19
+PASS  Package version is 1.2.0
+PASS  Visible UI has no stale FINAL 92 branding
+PASS  Visible UI has no stale Oct 15 launch copy
+PASS  Visible UI has no stale 78-day countdown
+PASS  Visible UI uses Invicticus phase names
+PASS  Mobile final override removes duplicate top navigation
+PASS  Prelaunch state is explicit and brick-safe
+PASS  Reset preserves real-life goals and todos
+PASS  Reset preserves prior earned badges as legacy proof
+PASS  Reset clears active celebration dates
+PASS  Internal date audit uses Invicticus Day 2
+PASS  Initial badge total matches 24-badge engine
+PASS  Runtime label distinguishes Invicticus release from schema
+PASS  Supply timeline exposes type and sealed-earned state
+PASS  Supply cards headline each reward and show actual eligibility rule
+PASS  V1.2 surprise dialog exists
+PASS  Watch seal interaction exists
+PASS  Daily Watch dispatch exists
+PASS  Night Watch is visual-only
+PASS  Surprise catalog is objective and non-gating
+PASS  Historical 26-day record surprise is anchored to Brick 27
+PASS  Summit surprise preserves Dec 31 finish
+PASS  Surprise state resets only with active run
+PASS  Surprise state normalizes safely
+PASS  Supply celebration names exact reward
+PASS  Reduced motion support covers surprise layer
+PASS  Summit visual mode is milestone-driven
+PASS  Record visual mode is milestone-driven
+PASS  Surprises are exposed to internal test harness
+PASS  Every data-jump target resolves
+PASS  Every data-scroll target resolves
+PASS  Direct event-listener DOM targets resolve
+PASS  All 14 Invicticus reward gates are present
+PASS  All earliest reward dates mathematically match Oct 19
+PASS  Full-duty milestone is Tuesday Oct 20
+
+124/124 repository checks passed.

@@ -1,0 +1,10 @@
+{
+  "name": "the-52nd-watch-invicticus",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Verification and deployment package for The 52nd Watch: Invicticus Challenge V1.2.",
+  "scripts": {
+    "test": "node scripts/verify-repository.mjs",
+    "verify": "node scripts/verify-repository.mjs"
+  }
+}

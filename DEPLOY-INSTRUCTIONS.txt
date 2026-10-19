@@ -1,0 +1,9 @@
+THE 52ND WATCH — INVICTICUS CHALLENGE V1.2
+
+1. Test the package locally or in a temporary GitHub Pages branch/site.
+2. Upload every file/folder in this package to the repository root, preserving .github/workflows and scripts/.
+3. GitHub → Settings → Pages → Deploy from branch → main → / (root).
+4. On iPhone, reopen the PWA and accept/reload the update if prompted. If an old cached build persists, fully close/reopen the Home Screen app once.
+5. Smoke-test: PREP state (before Oct 19), Today closeout, one supply card, Reviews, Data export/restore, bottom navigation, and offline reopen.
+
+Do not publish a private restore JSON.

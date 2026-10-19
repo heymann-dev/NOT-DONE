@@ -1,0 +1,46 @@
+THE 52ND WATCH — INVICTICUS CHALLENGE V1.2
+COMPREHENSIVE FINISHING PASS
+
+STATUS
+- Active campaign remains Monday Oct 19, 2026 through Thursday Dec 31, 2026.
+- Full-duty return remains Tuesday Oct 20, 2026.
+- Active wall remains 52 qualifying bricks.
+- 8 main supply drops + 6 bonus drops remain brick-gated, not date-authorized.
+- Historical proof remains separate from current-run progress.
+
+V1.2 IMPROVEMENTS
+- Added a lightweight Watch layer with deterministic daily field dispatches.
+- Added milestone reveal logic that never changes XP, brick rules, reward gates, or health requirements.
+- Added a late-night visual treatment only; it creates no new task and does not encourage additional screen time.
+- Added objective visual state changes after major brick milestones.
+- Added a hidden seal interaction that changes no progress and is intentionally undocumented in detail.
+- Supply-drop celebrations now name the exact cache earned and still require manual CLAIM / BANK / SWAP.
+- Added safe surprise-state normalization, reset behavior, and restore compatibility.
+- Added dialog fallback behavior and reduced-motion support.
+- Expanded built-in system audit to cover the Watch layer without weakening the existing integrity rules.
+
+INTEGRITY PRESERVED
+- One brick still requires explicit closeout, all six canonical checks, and attention integrity.
+- PREP day cannot earn a brick before Oct 19.
+- Reward eligibility remains actual qualifying brick count only.
+- Squat remains recovery-sensitive; no forced date test was introduced.
+- Existing goals, life actions, recovery evidence, mountains, Iron Ledger history, photos, and permanent achievements remain outside the active-progress reset.
+- Invicticus software upgrades do not alter the Oct 19 progress epoch, so installing V1.2 does not restart the campaign again.
+
+MOBILE / UX
+- One primary mobile navigation surface remains.
+- Supply timeline remains horizontal-scroll + snap on mobile.
+- Surprise dialog is responsive and reduced-motion aware.
+- Hero remains compact enough to keep Today / Wall / Supply Drops above secondary command surfaces.
+
+VALIDATION
+- Repository verification: 122/122 checks passed before packaging.
+- Application JavaScript parses.
+- Service worker JavaScript parses.
+- No duplicate DOM IDs.
+- All jump/scroll/direct-listener targets resolve.
+- All 14 brick-gated rewards and exact Oct 19-derived earliest dates remain present.
+- Public package contains no private restore JSON, personal photo payloads, or private finance snapshot.
+
+NOTE
+Exact surprise copy and trigger details are intentionally not itemized here so the V1.2 pass can still contain actual surprises during use.
